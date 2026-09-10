@@ -1,0 +1,110 @@
+[
+  {
+    "PlayerName": "Shakib Al Hasan",
+    "PlayerImg": "https://encdn.bd-pratidin.com/public/news_images/2025/10/16/1760611106-9de56091c431fe89ee7a44408cccbd8f.jpg",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "BowlingStyle": "Left-arm Orthodox",
+    "BattingStyle": "Left-hand Bat",
+    "price": 360 
+  },
+  {
+    "PlayerName": "Litton Das",
+    "PlayerImg": "https://www.sportsmail24.com/media/content/images/2022December/liton-das-20221202212814.jpg",
+    "origin": "Bangladesh",
+    "playerType": "Wicket-Keeper",
+    "BowlingStyle": "N/A",
+    "BattingStyle": "Right-hand Bat",
+    "price": 150 
+  },
+  {
+    "PlayerName": "Mustafizur Rahman",
+    "PlayerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsiW2Zro4VxcePu1pT14UMdDRZLbhhQbCfnjU88VlVkiLyPRJmpWm5kQA&s=10",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "BowlingStyle": "Left-arm Fast Medium",
+    "BattingStyle": "Left-hand Bat",
+    "price": 500
+  },
+  {
+    "PlayerName": "Taskin Ahmed",
+    "PlayerImg": "https://i.pinimg.com/736x/af/27/b2/af27b2c89f840b3d17639d0654994989.jpg",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "BowlingStyle": "Right-arm Fast",
+    "BattingStyle": "Right-hand Bat",
+    "price": 78
+  },
+  {
+    "PlayerName": "Najmul Hossain Shanto",
+    "PlayerImg": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/361700/361798.6.jpg",
+    "origin": "Bangladesh",
+    "playerType": "Batsman",
+    "BowlingStyle": "N/A",
+    "BattingStyle": "Left-hand Bat",
+    "price": 700
+  },
+  {
+    "PlayerName": "Towhid Hridoy",
+    "PlayerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/8322/67719.png",
+    "origin": "Bangladesh",
+    "playerType": "Batsman",
+    "BowlingStyle": "Right-arm Off Break",
+    "BattingStyle": "Right-hand Bat",
+    "price": 65
+  },
+  {
+    "PlayerName": "Mehidy Hasan Miraz",
+    "PlayerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mtGy93LfyvQKXuA_7F7Nl0hHlrwFr5TwSJNKedHRKK5Bx0NkFov-_9g&s=10",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "BowlingStyle": "Right-arm Off Break",
+    "BattingStyle": "Right-hand Bat",
+    "price": 50
+  },
+  {
+    "PlayerName": "Rishad Hossain",
+    "PlayerImg": "https://pbs.twimg.com/profile_images/1909242877558824960/C-2KXnNs_400x400.jpg",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "BowlingStyle": "Right-arm Leg Break",
+    "BattingStyle": "Right-hand Bat",
+    "price": 60
+  },
+  {
+    "PlayerName": "Virat Kohli",
+    "PlayerImg": "https://static.toiimg.com/photo/119129076.cms",
+    "origin": "India",
+    "playerType": "Batsman",
+    "BowlingStyle": "Right-arm Medium",
+    "BattingStyle": "Right-hand Bat",
+    "price": 550
+  },
+  {
+    "PlayerName": "Rohit Sharma",
+    "PlayerImg": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202408/rohit-sharma-131403815-1x1.jpg?VersionId=.ATeYvYxOF23G4ymRa2FkqGd0Ng7rPmj",
+    "origin": "India",
+    "playerType": "Batsman",
+    "BowlingStyle": "Right-arm Off Break",
+    "BattingStyle": "Right-hand Bat",
+    "price": 1000
+  },
+  {
+    "PlayerName": "Jasprit Bumrah",
+    "PlayerImg": "https://documents.iplt20.com/ipl/IPLHeadshot2025/9.png",
+    "origin": "India",
+    "playerType": "Bowler",
+    "BowlingStyle": "Right-arm Fast",
+    "BattingStyle": "Right-hand Bat",
+    "price": 350
+  },
+  {
+    "PlayerName": "Hardik Pandya",
+    "PlayerImg": "https://cf-images.assettype.com/nationalherald%2F2022-03%2Ff68b4615-9e28-49fe-92bb-b7b9993ad03b%2FIPL_2022_Gujarat_Titans_launch_their_jersey_at_Narendra_Modi_Stadium.jpg?auto=format%2Ccompress&fmt=webp&w=400&dpr=2.6",
+    "origin": "India",
+    "playerType": "All-Rounder",
+    "BowlingStyle": "Right-arm Fast Medium",
+    "BattingStyle": "Right-hand Bat",
+    "price": 1200
+  }
+]
