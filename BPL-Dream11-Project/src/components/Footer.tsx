@@ -1,3 +1,5 @@
+import logoFooter from "../assets/logo-footer.png";
+
 const Footer = () => {
   return (
     <footer className="bg-slate-950 text-white mt-48 pt-24 pb-8 relative">
@@ -21,7 +23,7 @@ const Footer = () => {
 
       <div className="container mx-auto px-4 pt-16">
         <div className="flex justify-center mb-8">
-          <img src="/src/assets/logo-footer.png" alt="Footer Logo" className="h-20" />
+          <img src={logoFooter} alt="Footer Logo" className="h-20 w-auto object-contain" />
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-gray-400 text-sm py-8 border-b border-gray-800">
